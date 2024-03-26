@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/bd2e5dd8-34a6-464b-bf22-e442d4751749/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/Cusmato",
+    "appService.deploySubpath": "."
+}
